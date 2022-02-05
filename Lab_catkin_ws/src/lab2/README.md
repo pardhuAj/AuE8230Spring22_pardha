@@ -1,0 +1,1 @@
+This folder contains work done during second lab session of course. In this session, we are introduced to creation of packages, launch files. Scripts folder contains all codes needed to run the turtlesim. launch folder contains launch files
