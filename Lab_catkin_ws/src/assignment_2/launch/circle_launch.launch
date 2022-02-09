@@ -1,4 +1,4 @@
 <launch>
-	<node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node"/>
-	<node pkg="assignment_2" type="circle.py" name="circle"/>
+	<node pkg="turtlesim" type="turtlesim_node" name="turtle1"/>
+	<node pkg="assignment_2" type="circle.py" name="turtlesim"/>
 </launch>
